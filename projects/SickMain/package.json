@@ -1,0 +1,12 @@
+{
+  "name": "timediff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "node tests/test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
